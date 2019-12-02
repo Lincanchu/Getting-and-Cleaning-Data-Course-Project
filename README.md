@@ -5,6 +5,7 @@ Dataset
 	* "Second_Dataset.txt"
 
 Files
+
 	1. CodeBook.md: a code book that describes the variables and their corresponding data, and the steps that I have 
 	taken to clean up the data
 
