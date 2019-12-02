@@ -2,6 +2,7 @@
 This repository is a submission from Canchu Lin for the course project of Getting and Cleaning Data. It presents the detailed instructions on how to run an analysis on the Human Activity Recognition dataset.
 
 Dataset
+
 	* "Second_Dataset.txt"
 
 Files
